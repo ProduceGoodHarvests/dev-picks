@@ -24,7 +24,7 @@
 | [element-plus/element-plus](https://github.com/element-plus/element-plus) | 27.9k | TypeScript | MIT | 组件库工程化、主题变量、按需加载 |
 | [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) | 41.0k | TypeScript | 自定义 | Material 设计体系的组件与主题实现 |
 | [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) | 10.8k | TypeScript | MIT | 「源码放进项目里」的组件思路，改起来无负担 |
-| [antfu/vitesse](https://github.com/antfu/vitesse) | 9.4k | TypeScript | MIT | 现代 Vue 工程模板：目录约定、自动导入、按需加载 |
+| [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) | 9.4k | TypeScript | MIT | 现代 Vue 工程模板：目录约定、自动导入、按需加载 |
 
 ## 微信小程序
 
@@ -57,7 +57,7 @@
 | 项目 | 星 | 语言 | 许可 | 看什么 |
 |---|---:|---|---|---|
 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 538.7k | — | CC0-1.0 | 各类清单的总入口，先搜再自己翻 |
-| [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 372.3k | TypeScript | 自定义 | 学习路径图，用来定位自己的知识缺口 |
+| [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 372.3k | TypeScript | 自定义 | 学习路径图，用来定位自己的知识缺口 |
 
 ---
 
